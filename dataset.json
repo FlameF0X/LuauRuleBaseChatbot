@@ -1,0 +1,15 @@
+{
+    "greetings": {
+        "hi": ["Hello!", "Hi there!", "Greetings!"],
+        "how are you": ["I'm just a program, but I'm doing great!", "Doing well, thanks!"],
+        "hey": ["Hey! What's up?", "Hello! How can I help?"]
+    },
+    "farewells": {
+        "bye": ["Goodbye!", "See you later!", "Take care!"],
+        "see you": ["See you soon!", "Catch you later!"]
+    },
+    "questions": {
+        "what is your name": ["I'm a chatbot!", "You can call me ChatBot!"],
+        "what do you do": ["I chat with users!", "I'm here to assist you!"]
+    }
+}

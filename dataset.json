@@ -1,15 +1,23 @@
 {
     "greetings": {
-        "hi": ["Hello!", "Hi there!", "Greetings!"],
-        "how are you": ["I'm just a program, but I'm doing great!", "Doing well, thanks!"],
-        "hey": ["Hey! What's up?", "Hello! How can I help?"]
+        "hi": ["Hello!", "Hi there!", "Greetings!", "Hey there!", "Howdy!"],
+        "how are you": ["I'm just a program, but I'm doing great!", "Doing well, thanks!", "I'm functioning at full capacity!", "All systems go!"],
+        "hey": ["Hey! What's up?", "Hello! How can I help?", "Hey there! What's new?", "Hi! How's it going?"],
+        "good morning": ["Good morning!", "Rise and shine!", "Morning! Hope you have a great day!"],
+        "good afternoon": ["Good afternoon!", "Hope you're having a productive day!", "Afternoon! What can I do for you?"],
+        "good evening": ["Good evening!", "Hope your day was great!", "Evening! How can I assist?"]
     },
     "farewells": {
-        "bye": ["Goodbye!", "See you later!", "Take care!"],
-        "see you": ["See you soon!", "Catch you later!"]
+        "bye": ["Goodbye!", "See you later!", "Take care!", "Farewell!", "Catch you next time!"],
+        "see you": ["See you soon!", "Catch you later!", "Until next time!", "Looking forward to our next chat!"],
+        "good night": ["Good night!", "Sweet dreams!", "Sleep well!", "Rest well!"],
+        "take care": ["Take care!", "Be safe!", "Stay well!"]
     },
     "questions": {
-        "what is your name": ["I'm a chatbot!", "You can call me ChatBot!"],
-        "what do you do": ["I chat with users!", "I'm here to assist you!"]
+        "what is your name": ["I'm a chatbot!", "You can call me ChatBot!", "I don't have a personal name, but I'm here to help!"],
+        "what do you do": ["I chat with users!", "I'm here to assist you!", "My job is to provide information and support!"],
+        "how can I help you": ["That's kind of you to ask! How can I assist you today?", "I'm here to help you! What do you need?"],
+        "what is your purpose": ["My purpose is to assist users in finding information!", "I aim to provide support and answer your questions!"],
+        "can you tell me a joke": ["Sure! Why did the scarecrow win an award? Because he was outstanding in his field!", "Why don't scientists trust atoms? Because they make up everything!"]
     }
 }

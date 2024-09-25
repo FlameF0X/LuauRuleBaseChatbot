@@ -1,1 +1,1 @@
-Its a rule-base dataset. 🤷‍♂️
+It is just a rule-base dataset. 🤷‍♂️
